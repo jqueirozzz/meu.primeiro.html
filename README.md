@@ -1,5 +1,5 @@
-#Praticando em HTML
-HTML na pratica
+Praticando em HTML
+
 # Sabor e Brasa
 
 Projeto de um restaurante fictício desenvolvido para praticar os fundamentos de HTML5.
